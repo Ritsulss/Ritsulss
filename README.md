@@ -1,6 +1,12 @@
 ![Header](./assets/github-header-banner(1).png)
 
 I'm currently a CS student at Florida International University that loves to code and create applications that either improve experiences for others or solve problems for corporations!
+
+* Bachelor of Arts in Computer Science GPA: 3.0 (Florida International University) - Expected Graduation Date: May 2027
+* Working as a: Student IT Lab Assistant - Troubleshoting hardware, software, operating system, and network connectivity issues across lab workstations and peripherals.
+
+## Tech Stack
+
 <!--
 **Ritsulss/Ritsulss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
