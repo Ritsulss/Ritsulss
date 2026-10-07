@@ -2,11 +2,30 @@
 
 I'm currently a CS student at Florida International University that loves to code and create applications that either improve experiences for others or solve problems for corporations!
 
-* Bachelor of Arts in Computer Science GPA: 3.0 (Florida International University) - Expected Graduation Date: May 2027
-* Working as a: Student IT Lab Assistant - Troubleshoting hardware, software, operating system, and network connectivity issues across lab workstations and peripherals.
+* :mortar_board:Bachelor of Arts in Computer Science GPA: 3.0 (Florida International University) - Expected Graduation Date: May 2027
+* :school_satchel:Working as a: Student IT Lab Assistant - Troubleshoting hardware, software, operating system, and network connectivity issues across lab workstations and peripherals.
 
 ## Tech Stack
 [![Tech stack: React, Next.js, Tailwind CSS, Node.js, Python, FastAPI, PostgreSQL, Supabase, Docker, C, MySQL, JavaScript](https://stack.rajinkhan.com/v1/stack.svg?i=react%2Cnextdotjs%2Ctailwindcss%2Cnodedotjs%2Cpython%2Cfastapi%2Cpostgresql%2Csupabase%2Cdocker%2Cc%2Cmysql%2Cjavascript&t=transparent&s=fast)](https://stack.rajinkhan.com/?i=react%2Cnextdotjs%2Ctailwindcss%2Cnodedotjs%2Cpython%2Cfastapi%2Cpostgresql%2Csupabase%2Cdocker%2Cc%2Cmysql%2Cjavascript&t=transparent&s=fast)
+
+## Currently Learning
+:computer: AWS
+
+
+:robot:Artificial Intelligence
+
+:closed_book:Net-Centric Computing
+
+
+## Featured Projects
+Grid-lock
+
+Clinical Management Databse
+
+## Lets Connect!
+Email: breyes461@yahoo.com
+
+LinkedIn:https://www.linkedin.com/in/branden-reyes-147a6121b
 <!--
 **Ritsulss/Ritsulss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
