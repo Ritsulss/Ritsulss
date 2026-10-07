@@ -1,4 +1,6 @@
 ![Header](./assets/github-header-banner(1).png)
+
+I'm currently a CS student at Florida International University that loves to code and create applications that either improve experiences for others or solve problems for corporations!
 <!--
 **Ritsulss/Ritsulss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
