@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Header](./assets/your-header-image-name.png)
 <!--
 **Ritsulss/Ritsulss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
