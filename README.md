@@ -6,7 +6,7 @@ I'm currently a CS student at Florida International University that loves to cod
 * Working as a: Student IT Lab Assistant - Troubleshoting hardware, software, operating system, and network connectivity issues across lab workstations and peripherals.
 
 ## Tech Stack
-
+[![Tech stack: React, Next.js, Tailwind CSS, Node.js, Python, FastAPI, PostgreSQL, Supabase, Docker, C, MySQL, JavaScript](https://stack.rajinkhan.com/v1/stack.svg?i=react%2Cnextdotjs%2Ctailwindcss%2Cnodedotjs%2Cpython%2Cfastapi%2Cpostgresql%2Csupabase%2Cdocker%2Cc%2Cmysql%2Cjavascript&t=transparent&s=fast)](https://stack.rajinkhan.com/?i=react%2Cnextdotjs%2Ctailwindcss%2Cnodedotjs%2Cpython%2Cfastapi%2Cpostgresql%2Csupabase%2Cdocker%2Cc%2Cmysql%2Cjavascript&t=transparent&s=fast)
 <!--
 **Ritsulss/Ritsulss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
