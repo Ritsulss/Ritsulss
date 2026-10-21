@@ -20,8 +20,13 @@ I'm currently a CS student at Florida International University that loves to cod
 
 ## Featured Projects
 Grid-lock
+- Developed a web application to identify geographic overlap between Georgia Power and Dominion Energy
+infrastructure, highlighting opportunities for intercompany cooperation and long-term cost savings.
+- Engineered a Python document-parsing backend with FastAPI to process utility company documents, identify
+overlapping service locations, and categorize cooperation opportunities by proximity; integrated Supabase for
+database management and Next.js for the frontend.
 
-Clinical Management Databse
+Clinical Management Database
 
 ## Lets Connect!
 Email: breyes461@yahoo.com
